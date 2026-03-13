@@ -27,7 +27,7 @@ Organizations deploy resources to a region closest to their users.
 # Availability Zones
 
 Availability zones are physically separate datacenters within a region.
-
+ 
 Each zone has:
 
 - independent power
