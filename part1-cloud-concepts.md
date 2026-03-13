@@ -81,3 +81,4 @@ Hybrid cloud allows organizations to keep sensitive data on-premises while using
 - Cloud environments can be **public, private, or hybrid**.
 
 These concepts form the foundation for understanding Microsoft Azure and cloud platforms in general.
+ 
