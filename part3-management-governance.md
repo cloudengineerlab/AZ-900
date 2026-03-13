@@ -132,3 +132,4 @@ Organizations choose support plans depending on their operational requirements.
 - Governance tools like Azure Policy and resource locks enforce compliance.
 - Azure pricing follows a pay-as-you-go model.
 - SLAs define the expected availability of Azure services.
+ 
