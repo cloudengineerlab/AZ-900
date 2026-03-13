@@ -9,6 +9,7 @@ This repository contains my learning progress for the AZ-900 certification.
 
 ✅ Part 1 – Cloud Concepts
 ⬜ Part 2 – Azure Architecture and Services
+
 ⬜ Part 3 – Management and Governance
 
 
