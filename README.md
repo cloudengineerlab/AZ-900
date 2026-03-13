@@ -1,18 +1,46 @@
-# AZ-900
-Microsoft Azure AZ-900 learning journey – notes, summaries and labs
+# AZ-900 Microsoft Azure Fundamentals
 
-# Microsoft Azure AZ-900 Journey ☁️
+This repository documents my learning journey for the **AZ-900 Microsoft Azure Fundamentals certification**.
 
-This repository contains my learning progress for the AZ-900 certification.
+It contains summaries, notes, and practice labs from the Microsoft Learn modules.
 
-## 📚 Modules
+---
 
-✅ Part 1 – Cloud Concepts
+## ☁️ Azure Learning Journey
 
-⬜ Part 2 – Azure Architecture and Services
+I am studying the core concepts of Microsoft Azure and documenting my progress in this repository.
 
-⬜ Part 3 – Management and Governance
+---
 
+## 📚 Learning Modules
+
+✅ **Module 1 – Cloud Concepts**  
+⬜ **Module 2 – Core Azure Services**  
+⬜ **Module 3 – Security, Pricing, and Support**
+
+---
+
+## 📂 Repository Structure
+
+- `az900-part1-cloud-concepts.md`
+- `az900-part2-core-azure-services.md`
+- `az900-part3-security-pricing-support.md`
+
+Each file contains summaries and key concepts from the Microsoft Learn modules.
+
+---
 
 ## 🎯 Goal
-Pass AZ-900 and continue towards Azure Administrator (AZ-104)
+
+Pass the **AZ-900 certification** and continue learning towards:
+
+➡️ **AZ-104 – Azure Administrator Associate**
+
+---
+
+## 🚀 Future Plans
+
+- Complete AZ-900
+- Build hands-on labs in Azure
+- Study for AZ-104
+- Specialize in **Cloud Security**
