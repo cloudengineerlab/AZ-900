@@ -16,7 +16,7 @@ I am studying the core concepts of Microsoft Azure and documenting my progress i
 
 ✅ **Module 1 – Cloud Concepts**  
 ⬜ **Module 2 – Core Azure Services**  
-⬜ **Module 3 – Security, Pricing, and Support**
+⬜ **Module 3 – Management, Governance, Security, Pricing and Support**
 
 ---
 
